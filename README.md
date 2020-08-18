@@ -1,5 +1,5 @@
 # Assessments-in-Cpp  
-These are some assessments in C++.  
+These are some assessments of National Taiwan University course in C++.  
 
 1.CheckPrime.cpp is to check the factors of the number that user inputs. Also, if the factor is prime, print P. Otherwise, print N.  
 The output can print the factors in a linked list in reverse order or inorder.  
